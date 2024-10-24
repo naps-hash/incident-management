@@ -641,7 +641,7 @@
                     <value>ctype::FlowstepVariant/cname::GatewayRoute/version::1.0.0</value>
                 </ifl:property>
             </bpmn2:extensionElements>
-            <bpmn2:conditionExpression id="FormalExpression_SequenceFlow_27_1700578478431" xsi:type="bpmn2:tFormalExpression">${header.CamelDuplicateMessage} = 'true'</bpmn2:conditionExpression>
+            <bpmn2:conditionExpression id="FormalExpression_SequenceFlow_27_1729770091848" xsi:type="bpmn2:tFormalExpression">${header.CamelDuplicateMessage} = 'true'</bpmn2:conditionExpression>
         </bpmn2:sequenceFlow>
         <bpmn2:sequenceFlow id="SequenceFlow_21" name="Route 1" sourceRef="ExclusiveGateway_19" targetRef="EndEvent_2">
             <bpmn2:extensionElements>
@@ -743,7 +743,7 @@
                 </ifl:property>
                 <ifl:property>
                     <key>wrapContent</key>
-                    <value>orderID : ${property.orderID} couldn't be processed because it was already processed.</value>
+                    <value>#####</value>
                 </ifl:property>
                 <ifl:property>
                     <key>componentVersion</key>
