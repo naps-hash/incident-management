@@ -32,7 +32,7 @@ Import-Package: com.sap.esb.application.services.cxf.interceptor,com.sap
 Origin-Bundle-Name: POC_on_Idempotent_Process_Call
 SAP-RuntimeProfile: iflmap
 Bundle-Name: POC_on_Idempotent_Process_Call
-Bundle-Version: 1.0.8
+Bundle-Version: 1.0.9
 SAP-NodeType: IFLMAP
 Origin-ModifiedDate: 1718790912842
 SAP-BundleType: IntegrationFlow
