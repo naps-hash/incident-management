@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><parameters><parameter>
     <key/>
-    <name>IFLOW_NAME</name>
+    <name>IFLOW_NAMEW</name>
     <type>xsd:string</type>
     <isRequired>false</isRequired>
     <constraint/>
@@ -8,7 +8,7 @@
     <additionalMetadata/>
   </parameter><parameter>
     <key/>
-    <name>param</name>
+    <name>Param</name>
     <type>xsd:string</type>
     <isRequired>false</isRequired>
     <constraint/>
