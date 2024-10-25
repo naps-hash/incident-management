@@ -231,7 +231,7 @@
                 </ifl:property>
                 <ifl:property>
                     <key>httpAddressWithoutQuery</key>
-                    <value>https://webhook.site/540334ef-d736-4d0a-80c4-f7f26e956aea</value>
+                    <value>https://webhook.site/540334ef-d736-4d0a-80c4</value>
                 </ifl:property>
             </bpmn2:extensionElements>
         </bpmn2:messageFlow>
